@@ -184,10 +184,3 @@ INTERNAL_CLK:
           +---+---+   +---+---+   +
 ```
 
-
-
-## Resources
-
-* [ejrh's CPU in Verilog](https://github.com/ejrh/cpu)
-* [Ben Eater's video series](https://eater.net/8bit/)
-* [Steven Bell's microprocessor](https://stanford.edu/~sebell/oc_projects/ic_design_finalreport.pdf)
